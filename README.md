@@ -56,13 +56,6 @@ Building and deploying a machine learning project as part of a Break Through Tec
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bondmila&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bondmila&layout=compact)
-
----
-
 ### ✨ Fun Fact
 
 I love to travel — always looking for the next place to explore! ✈️
