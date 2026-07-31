@@ -17,7 +17,7 @@ I'm a Computer Science freshman in the Honors program at the University of Flori
 
 **Languages:** Python, C++
 
-**Data Science / ML:** scikit-learn, Pandas, NumPy, Jupyter Notebooks
+**Data Science / ML:** scikit-learn, Pandas, NumPy, TensorFlow, LangChain, Jupyter Notebooks
 
 **Tools:** Git, GitHub, GridSearchCV
 
