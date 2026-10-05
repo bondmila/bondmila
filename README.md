@@ -9,7 +9,7 @@
 
 ### 🧭 About Me
 
-I'm a Computer Science freshman in the Honors program at the University of Florida, drawn to the places where AI intersects with other disciplines — from finance to machine learning to NLP. I'm currently an **AI/ML Fellow at Break Through Tech AI** (selected from 4,400+ applicants), building and deploying a machine learning project alongside industry sponsors like Google and JPMorgan Chase. Alongside my coursework, I serve as the **President for Gator Fintech** and **Director of Teaching & Learning for UF AI Club**. I like problems that force me to go deep into the literature *and* ship something that works — ask me about machine learning and LLM multi-agent systems!
+I'm a Computer Science sophomore in the Honors program at the University of Florida, drawn to the places where AI intersects with other disciplines — from finance to machine learning to NLP. I'm currently an **AI/ML Fellow at Break Through Tech AI** (selected from 4,400+ applicants), building and deploying a machine learning project alongside industry sponsors like Google and JPMorgan Chase. Alongside my coursework, I serve as the **President for Gator Fintech** and **Director of Teaching & Learning for UF AI Club**. I like problems that force me to go deep into the literature *and* ship something that works — ask me about machine learning and LLM multi-agent systems!
 
 ---
 
